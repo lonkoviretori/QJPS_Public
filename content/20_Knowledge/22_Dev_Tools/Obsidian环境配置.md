@@ -1,7 +1,7 @@
 ---
 publish: true
 ---
-
+这是一次尝试的修改
 本文主要讲解个人配置的Obsidian环境
 
 # Obsidian 已安装插件功能指南
